@@ -1,3 +1,5 @@
+#this is the primary file to use to get the whole setup working
+
 require "resume_reader"
 require "resume"
 require "format_manager"
